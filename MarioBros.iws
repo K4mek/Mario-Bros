@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88fd2c91-3ef8-4d71-b4c4-95fb6da55cb1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MarioBros" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MarioBros" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rect</find>
+      <find>private</find>
+      <find>set</find>
+      <find>veloci</find>
+      <find>protected</find>
+      <find>TextureRegion region</find>
+      <find>region</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>protected</replace>
+      <replace>tileSet</replace>
+      <replace>this.region</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/core/src/com/game/mariobros/MarioBros.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/enemies/Enemy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/Mario.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/desktop/src/com/game/mariobros/desktop/DesktopLauncher.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core/src/com/game/mariobros/scenes/Hud.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/tileObjectes/InteractiveTileObject.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/core/src/com/game/mariobros/screens/PlayerScreen.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/tileObjectes/Brick.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/Screens/PlayerScreen.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/Scenes.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/Hud.java" />
+        <option value="$PROJECT_DIR$/desktop/src/com/game/mariobros/desktop/DesktopLauncher.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/scenes/Hud.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/Brick.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/Coin.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/InteractiveTileObject.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/Goomba.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/Enemy.java" />
+        <option value="$PROJECT_DIR$/android/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/items/item.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/items/Mashroom.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/items/ItemDefinition.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/tileObjectes/InteractiveTileObject.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/tileObjectes/Coin.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/tileObjectes/Brick.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/MarioBros.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/screens/GameOverScreen.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/items/Item.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/tools/B2WorldCreator.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/enemies/Enemy.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/enemies/Goomba.java" />
+        <option value="$PROJECT_DIR$/desktop/build.gradle" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/enemies/Turtle.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/items/Mushroom.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/screens/PlayerScreen.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/sprites/Mario.java" />
+        <option value="$PROJECT_DIR$/core/src/com/game/mariobros/tools/WorldContactListener.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="12" />
+    <option name="y" value="70" />
+    <option name="width" value="1346" />
+    <option name="height" value="687" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MarioBros" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarioBros" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/assets/maps" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.155" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Neemias\Documents\LibGdx\Games\MarioBros\android\assets\maps" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.game.mariobros.sprites.tileObjectes" />
+      <recent name="com.game.mariobros.sprites.enemies" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Neemias\Documents\LibGdx\Games\MarioBros\android\assets\maps" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Desktop">
+    <configuration default="true" type="AndroidJUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android" type="AndroidRunConfigurationType">
+      <module name="android" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desktop" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.game.mariobros.desktop.DesktopLauncher" />
+      <module name="desktop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/android/assets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88fd2c91-3ef8-4d71-b4c4-95fb6da55cb1" name="Default Changelist" comment="" />
+      <created>1573923795893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573923795893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923196" visible="true" weight="0.1785174" />
+      <window_info id="Structure" order="1" sideWeight="0.50076807" side_tool="true" weight="0.1785174" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" sideWeight="0.50076807" side_tool="true" weight="0.1785174" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50076807" side_tool="true" weight="0.1785174" />
+      <window_info id="Captures" order="7" sideWeight="0.50076807" side_tool="true" weight="0.1785174" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Learn" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2764977" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32872504" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32872504" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Logcat" order="10" weight="0.32872504" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Device File Explorer" order="6" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Gradle" order="10" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/android/src/com/game/mariobros/AndroidLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/Scenes.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/Hud.java" />
+    <entry file="file://$PROJECT_DIR$/desktop/src/com/game/mariobros/desktop/DesktopLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/Coin2.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/adfd.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/scenes/Hud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/Mario_and_Enemies.pack">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/maps/level1.tmx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.10/384a26163490e0dca4e3a1c00d4ae6284d785da5/gdx-box2d-1.9.10-sources.jar!/com/badlogic/gdx/physics/box2d/Body.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4012">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+          <folding>
+            <element signature="e#8702#8703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/Mario GFX/big_mario.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/Mario GFX/mushroom.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/items/ItemDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.10/384a26163490e0dca4e3a1c00d4ae6284d785da5/gdx-box2d-1.9.10-sources.jar!/com/badlogic/gdx/physics/box2d/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="984" column="53" selection-start-line="984" selection-start-column="53" selection-end-line="984" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.10/37e7ec91522313dabc753c72196dd665ea4a9332/gdx-1.9.10-sources.jar!/com/badlogic/gdx/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding>
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/screens/GameOverScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2123#2124#0" expanded="true" />
+            <element signature="e#2154#2155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/Mario_and_Enemies.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/Mario GFX/turtle.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.10/37e7ec91522313dabc753c72196dd665ea4a9332/gdx-1.9.10-sources.jar!/com/badlogic/gdx/graphics/g2d/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9835">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.10/37e7ec91522313dabc753c72196dd665ea4a9332/gdx-1.9.10-sources.jar!/com/badlogic/gdx/graphics/Texture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/tileObjectes/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/tools/B2WorldCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3806#3813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/enemies/Enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/enemies/Turtle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="124" column="35" selection-start-line="124" selection-start-column="35" selection-end-line="124" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6129#6130#0" expanded="true" />
+            <element signature="e#6314#6315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desktop/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/items/Mushroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/items/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/MarioBros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/Mario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6190#6191#0" expanded="true" />
+            <element signature="e#8607#8608#0" expanded="true" />
+            <element signature="e#8676#8677#0" expanded="true" />
+            <element signature="e#8708#8709#0" expanded="true" />
+            <element signature="e#8737#8738#0" expanded="true" />
+            <element signature="e#8783#8784#0" expanded="true" />
+            <element signature="e#8813#8814#0" expanded="true" />
+            <element signature="method#definedMario#0;class#Mario#0" />
+            <element signature="method#redefineMario#0;class#Mario#0" />
+            <element signature="method#defineBigMario#0;class#Mario#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/screens/PlayerScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="126" column="80" lean-forward="true" selection-start-line="126" selection-start-column="80" selection-end-line="126" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#show#0;class#PlayerScreen#0" />
+            <element signature="e#7047#7048#0" expanded="true" />
+            <element signature="e#7093#7094#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/tileObjectes/Brick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="53" column="54" lean-forward="true" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/tools/WorldContactListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="73" column="57" selection-start-line="73" selection-start-column="57" selection-end-line="73" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/tileObjectes/InteractiveTileObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/game/mariobros/sprites/enemies/Goomba.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gradle-wrapper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

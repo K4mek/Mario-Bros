@@ -1,0 +1,4 @@
+#Sat Nov 23 21:55:15 GMT-03:00 2019
+base.0=C\:\\Users\\Neemias\\Documents\\LibGdx\\Games\\MarioBros\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
